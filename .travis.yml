@@ -8,6 +8,6 @@ jobs:
         create:
           name: 18june_01
       script: 
-        - echo "condition with job test"
+        - echo "condition with job test1"
         - echo $TRAVIS_COMMIT_MESSAGE
         - sleep 50
